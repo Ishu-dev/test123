@@ -37,3 +37,9 @@ next-env.d.ts
 
 # Sentry Config File
 .env.sentry-build-plugin
+
+
+DOCTOR_COLLECTION_ID = 66b2e318002782142119
+.env.local
+
+twilio recovery id = ANGVB6X2MJW5J5FWDB4D65K8
